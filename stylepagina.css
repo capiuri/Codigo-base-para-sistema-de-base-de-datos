@@ -1,0 +1,13 @@
+.body {
+    background-color: antiquewhite;
+    margin-top: 17%;
+}
+
+.titulo {
+    text-align: center;
+}
+
+.tabla {
+    border:solid, darkgray;
+    margin: auto;
+}
